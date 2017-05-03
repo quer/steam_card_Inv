@@ -1,0 +1,12 @@
+{
+  "name": "steam-card-collection",
+  "version": "1.0.0",
+  "description": "steam get card in inv",
+  "main": "index.js",
+  "author": "Lasse Pedersen",
+  "dependencies": {
+    "mysql": "*",
+    "request": "*",
+    "cheerio": "*"
+  }
+}
