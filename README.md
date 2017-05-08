@@ -50,3 +50,8 @@ a list of assetId.
   '4260995861',
   '4260995854' ]
 ```
+# install
+just open a cmd in the folder and run ```npm install```, then you are all set, just ```node index``` to se a example
+
+# a example
+run ```node index``` to see a example where it lookup a hole steam inv og get all set in a array. 
