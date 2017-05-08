@@ -1,11 +1,10 @@
 {
-  "name": "steam-card-collection",
+  "name": "steam-card-set-collection",
   "version": "1.0.0",
-  "description": "steam get card in inv",
+  "description": "steam get card set in inv",
   "main": "index.js",
   "author": "Lasse Pedersen",
   "dependencies": {
-    "mysql": "*",
     "request": "*",
     "cheerio": "*"
   }
